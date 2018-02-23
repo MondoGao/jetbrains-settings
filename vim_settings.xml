@@ -44,11 +44,12 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/learnCPlus/CMakeLists.txt" timestamp="1519386195255">
+      <file name="$USER_HOME$/Workspace/learnCPlus/CMakeLists.txt" timestamp="1519396330143">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="20" />
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/learnJava/src/main/java/course/homework4/MedalTally.java" timestamp="1510236743494">
         <mark key="'" line="67" column="7" />
@@ -325,6 +326,9 @@ class B extends A {
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJvdGVjdGVk</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>buffers</entry>
+        <entry>o 1</entry>
+        <entry>e 1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
