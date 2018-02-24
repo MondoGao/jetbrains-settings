@@ -180,11 +180,11 @@
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/learnCPlus/main.cpp" timestamp="1519486782080">
-        <mark key="[" line="5" column="47" />
-        <mark key="]" line="5" column="48" />
-        <mark key="^" line="5" column="48" />
-        <mark key="." line="5" column="48" />
+      <file name="$USER_HOME$/Workspace/learnCPlus/main.cpp" timestamp="1519489092514">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -252,10 +252,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lear</text>
+        <text encoding="base64">ID0gMjA7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ID0gMjA7</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
