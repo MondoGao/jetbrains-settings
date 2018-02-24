@@ -180,7 +180,12 @@
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/learnCPlus/main.cpp" timestamp="1518960600948" />
+      <file name="$USER_HOME$/Workspace/learnCPlus/main.cpp" timestamp="1519486782080">
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="48" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="5" column="48" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="10" column="50" filename="$USER_HOME$/Workspace/learnJava/src/main/java/course/homework4/MedalTally.java" />
@@ -325,10 +330,10 @@ class B extends A {
         <entry encoding="base64">JzwsJz5zL2ludC9zaG9ydA==</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJvdGVjdGVk</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>buffers</entry>
         <entry>o 1</entry>
         <entry>e 1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
