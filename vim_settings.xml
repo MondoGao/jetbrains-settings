@@ -180,12 +180,12 @@
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/learnCPlus/main.cpp" timestamp="1519568771100">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="$USER_HOME$/Workspace/learnCPlus/main.cpp" timestamp="1519570778312">
+        <mark key="'" line="43" column="8" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="19" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -251,52 +251,49 @@
       <jump line="5" column="19" filename="$USER_HOME$/Workspace/learnCPlus/CMakeLists.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/learnCPlus/CMakeLists.txt" />
       <jump line="3" column="0" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
+      <jump line="35" column="4" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
+      <jump line="32" column="8" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
+      <jump line="34" column="8" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID0gMjA7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gMjA7</text>
+        <text>of</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
       </register>
-      <register name="0" type="4">
-        <text>lear</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICpyZXMgPSAwOwogICAgZm9yIChhdXRvIHZ2IDogdikgewogICAgICAgICpyZXMgKz0gdnY7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obXNnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KEEuYSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCLmErKzsK</text>
-      </register>
-      <register name="7" type="4">
-        <text>class A {
-    public static int a = 1;
-}
-
-class B extends A {
-
-}</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZlY3Rvcjxkb3VibGU+IHZlYzI7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZlY3Rvcjxkb3VibGU+IHNvbWVfdmVjOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ki5qYXIK</text>
+        <text encoding="base64">ICAgIHZvaWQgb3BlcmF0b3IoKSgpOyAvLyBwbGFjZSByZXN1bHQgaW4gKnJlcyBwcml2YXRlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -367,6 +364,9 @@ class B extends A {
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
