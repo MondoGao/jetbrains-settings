@@ -180,11 +180,12 @@
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/learnCPlus/main.cpp" timestamp="1519489092514">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="4" column="12" />
+      <file name="$USER_HOME$/Workspace/learnCPlus/main.cpp" timestamp="1519568771100">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -249,6 +250,7 @@
       <jump line="20" column="0" filename="$USER_HOME$/Workspace/learnJava/src/main/java/course/Introduce.java" />
       <jump line="5" column="19" filename="$USER_HOME$/Workspace/learnCPlus/CMakeLists.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/learnCPlus/CMakeLists.txt" />
+      <jump line="3" column="0" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
