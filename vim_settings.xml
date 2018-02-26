@@ -180,12 +180,12 @@
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/learnCPlus/main.cpp" timestamp="1519570778312">
-        <mark key="'" line="43" column="8" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Workspace/learnCPlus/main.cpp" timestamp="1519660085547">
+        <mark key="'" line="5" column="8" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -254,13 +254,16 @@
       <jump line="35" column="4" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
       <jump line="32" column="8" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
       <jump line="34" column="8" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
+      <jump line="45" column="0" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
+      <jump line="4" column="8" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
+      <jump line="1" column="19" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGYoMS4wKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>of</text>
+        <text>endln</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
@@ -269,10 +272,10 @@
         <text encoding="base64">ICAgICpyZXMgPSAwOwogICAgZm9yIChhdXRvIHZ2IDogdikgewogICAgICAgICpyZXMgKz0gdnY7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGYoMS4wKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -281,19 +284,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4KI2luY2x1ZGUgPHRocmVhZD4KI2luY2x1ZGUgPGlvc3RyZWFtPgoKdXNpbmcgbmFtZXNwYWNlIHN0ZDsKCnZvaWQgZihjb25zdCB2ZWN0b3I8ZG91YmxlPiAmdiwgZG91YmxlKiByZXMpIHsKICAgICpyZXMgPSAwOwogICAgZm9yIChhdXRvIHZ2IDogdikgewogICAgICAgICpyZXMgKz0gdnY7CiAgICB9Cn0KCmNsYXNzIEYgewpwdWJsaWM6CgogICAgRihjb25zdCB2ZWN0b3I8ZG91YmxlPiAmdnYsIGRvdWJsZSAqcCkgOiB2e3Z2fSwgcmVze3B9IHt9CgogICAgdm9pZCBvcGVyYXRvcigpKCkgewogICAgICAgICpyZXMgPSAwOwogICAgICAgIGZvciAoYXV0byB2diA6IHYpIHsKICAgICAgICAgICAgKnJlcyArPSB2djsKICAgICAgICB9CiAgICB9CgogICAgY29uc3QgdmVjdG9yPGRvdWJsZT4gJnY7IC8vIHNvdXJjZSBvZiBpbnB1dAoKICAgIGRvdWJsZSAqcmVzOyAvLyB0YXJnZXQgZm9yIG91dHB1dAp9OwoKaW50IG1haW4oKSB7CiAgICB2ZWN0b3I8ZG91YmxlPiBzb21lX3ZlYyB7MSwgMn07CiAgICB2ZWN0b3I8ZG91YmxlPiB2ZWMyIHsyLCAzfTsKCiAgICBkb3VibGUgcmVzMTsKICAgIGRvdWJsZSByZXMyOwoKICAgIHRocmVhZCB0MXtmLCBzb21lX3ZlYywgJnJlczF9OwogICAgdGhyZWFkIHQye0Z7dmVjMiwgJnJlczJ9fTsKCiAgICB0MS5qb2luKCk7CiAgICB0Mi5qb2luKCk7CgogICAgY291dCA8PCByZXMxIDw8ICcgJyA8PCByZXMyIDw8ICdcbic7Cgp9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZlY3Rvcjxkb3VibGU+IHZlYzI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZlY3Rvcjxkb3VibGU+IHNvbWVfdmVjOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZvaWQgb3BlcmF0b3IoKSgpOyAvLyBwbGFjZSByZXN1bHQgaW4gKnJlcyBwcml2YXRlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -332,6 +335,7 @@
         <entry>buffers</entry>
         <entry>o 1</entry>
         <entry>e 1</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
