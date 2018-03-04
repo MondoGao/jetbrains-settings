@@ -8,6 +8,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/main.h" timestamp="1520171483498">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/learnJava/build.gradle" timestamp="1509959106220">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -57,6 +62,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/CMakeLists.txt" timestamp="1520171430957">
+        <mark key="'" line="6" column="31" />
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+      </file>
       <file name="$USER_HOME$/Workspace/learnServlet/src/Connect.java" timestamp="1509960883693">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -74,6 +86,12 @@
         <mark key="]" line="13" column="41" />
         <mark key="." line="13" column="41" />
         <mark key="^" line="13" column="41" />
+      </file>
+      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/main.cpp" timestamp="1520171491491">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/learnJava/src/main/java/course/Helpers.java" timestamp="1512205637550">
         <mark key="[" line="3" column="40" />
@@ -146,6 +164,13 @@
         <mark key="]" line="119" column="73" />
         <mark key="." line="119" column="73" />
         <mark key="^" line="119" column="73" />
+      </file>
+      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/permutations.cpp" timestamp="1520172178029">
+        <mark key="'" line="20" column="61" />
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="25" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/learnJava/src/main/java/course/homework8/CopyDirectory.java" timestamp="1510236926157">
         <mark key="'" line="15" column="18" />
@@ -263,13 +288,17 @@
       <jump line="4" column="8" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
       <jump line="1" column="19" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
       <jump line="14" column="0" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
+      <jump line="6" column="31" filename="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/CMakeLists.txt" />
+      <jump line="0" column="17" filename="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/main.h" />
+      <jump line="16" column="4" filename="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/permutations.cpp" />
+      <jump line="19" column="61" filename="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/permutations.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>learrCPlus</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>learrCPlus</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
@@ -278,31 +307,31 @@
         <text encoding="base64">ICAgICpyZXMgPSAwOwogICAgZm9yIChhdXRvIHZ2IDogdikgewogICAgICAgICpyZXMgKz0gdnY7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgQSB7IApwcml2YXRlOgogICAgaW50IGFnZTsKcHVibGljOgogICAgQShpbnQgYWdlKTogYWdlKGFnZSkge307CiAgICBmcmllbmQgb3N0cmVhbSYgb3BlcmF0b3I8PChvc3RyZWFtJiBvdXQsIGNvbnN0IEEmIGEpCiAgICB7CiAgICAgICAgb3V0IDw8IGEuYWdlOwogICAgICAgIHJldHVybiBvdXQ7CiAgICB9Cn07CmludCBtYWluKCkKewogICAgQSBhezF9OwogICAgY291dCA8PCBhOwogICAgcmV0dXJuIDA7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW50IG1haW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGYoMS4wZik7Cg==</text>
+        <text encoding="base64">ICAgIHt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGYoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3B5KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvcHkoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dm9pZCBmKGludCBhKQp7CiAgICBjb3V0IDw8ICJpbnQiIDw8ICdcbic7Cn0Kdm9pZCBmKGZsb2F0IGEpCnsKICAgIGNvdXQgPDwgImZsb2F0IiA8PCAnXG4nOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGYoMS4wKTsK</text>
+        <text encoding="base64">LyoKICogCiAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">I2luY2x1ZGUgIm1haW4uaCIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -342,6 +371,8 @@
         <entry>o 1</entry>
         <entry>e 1</entry>
         <entry>s</entry>
+        <entry>e main.cpp</entry>
+        <entry>n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -377,6 +408,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
