@@ -81,6 +81,12 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
+      <file name="$USER_HOME$/Workspace/learn-algorithm/CMakeLists.txt" timestamp="1520171256137">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+      </file>
       <file name="$USER_HOME$/Workspace/learnJava/src/main/java/course/homework9/ChatRoom.java" timestamp="1512205820609">
         <mark key="'" line="9" column="12" />
         <mark key="[" line="9" column="0" />
@@ -259,11 +265,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/Workspace/learnCPlus/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZChWRVJTSU9OIDMuOSkKcHJvamVjdChsZWFybkNQbHVzKQoKCnNldChDTUFLRV9DWFhfU1RBTkRBUkQgMTcpCgphZGRfZXhlY3V0YWJsZShsZWFyckNQbHVzIG1haW4uY3BwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>learrCPlus</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnJpZW5kIA==</text>
+        <text>learrCPlus</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
