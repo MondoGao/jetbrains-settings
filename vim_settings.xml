@@ -44,10 +44,10 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/learnCPlus/CMakeLists.txt" timestamp="1519396330143">
+      <file name="$USER_HOME$/Workspace/learnCPlus/CMakeLists.txt" timestamp="1520171181614">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="17" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="34" />
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
@@ -260,7 +260,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgQSB7IApwcml2YXRlOgogICAgaW50IGFnZTsKcHVibGljOgogICAgQShpbnQgYWdlKTogYWdlKGFnZSkge307CiAgICBmcmllbmQgb3N0cmVhbSYgb3BlcmF0b3I8PChvc3RyZWFtJiBvdXQsIGNvbnN0IEEmIGEpCiAgICB7CiAgICAgICAgb3V0IDw8IGEuYWdlOwogICAgICAgIHJldHVybiBvdXQ7CiAgICB9Cn07CmludCBtYWluKCkKewogICAgQSBhezF9OwogICAgY291dCA8PCBhOwogICAgcmV0dXJuIDA7Cn0K</text>
+        <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZChWRVJTSU9OIDMuOSkKcHJvamVjdChsZWFybkNQbHVzKQoKCnNldChDTUFLRV9DWFhfU1RBTkRBUkQgMTcpCgphZGRfZXhlY3V0YWJsZShsZWFyckNQbHVzIG1haW4uY3BwKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZnJpZW5kIA==</text>
