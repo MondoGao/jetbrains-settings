@@ -62,12 +62,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/CMakeLists.txt" timestamp="1520171430957">
+      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/CMakeLists.txt" timestamp="1520174516498">
         <mark key="'" line="6" column="31" />
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="39" />
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="46" />
+        <mark key="." line="6" column="46" />
+        <mark key="^" line="6" column="46" />
       </file>
       <file name="$USER_HOME$/Workspace/learnServlet/src/Connect.java" timestamp="1509960883693">
         <mark key="[" line="9" column="0" />
@@ -165,12 +165,12 @@
         <mark key="." line="119" column="73" />
         <mark key="^" line="119" column="73" />
       </file>
-      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/permutations.cpp" timestamp="1520172178029">
-        <mark key="'" line="20" column="61" />
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="34" />
-        <mark key="^" line="25" column="34" />
+      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/permutations.cpp" timestamp="1520174616666">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="36" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/learnJava/src/main/java/course/homework8/CopyDirectory.java" timestamp="1510236926157">
         <mark key="'" line="15" column="18" />
@@ -292,13 +292,14 @@
       <jump line="0" column="17" filename="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/main.h" />
       <jump line="16" column="4" filename="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/permutations.cpp" />
       <jump line="19" column="61" filename="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/permutations.cpp" />
+      <jump line="37" column="0" filename="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/permutations.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
@@ -310,28 +311,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb3B5KCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvcHkoKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHt9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb3B5KCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvcHkoKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoKICogCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm1haW4uaCIK</text>
+        <text encoding="base64">LyoKICogCiAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
