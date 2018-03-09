@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/1-32_permutations.cpp" timestamp="1520601930360" />
       <file name="$USER_HOME$/Workspace/learnJava/src/main/java/course/homework6/Gui.java" timestamp="1507532910385">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -42,6 +43,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="29" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/5-2__changeLength1D.cpp" timestamp="1520602696755">
+        <mark key="'" line="12" column="16" />
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/learnJava/Serverlet/web/WEB-INF/web.xml" timestamp="1509955978865">
         <mark key="[" line="6" column="22" />
@@ -140,6 +148,9 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1520602141336">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/learnJava/src/main/java/course/homework7/PhoneBook.java" timestamp="1507979385218">
         <mark key="'" line="22" column="32" />
         <mark key="[" line="22" column="34" />
@@ -165,10 +176,10 @@
         <mark key="." line="119" column="73" />
         <mark key="^" line="119" column="73" />
       </file>
-      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/permutations.cpp" timestamp="1520321721518">
+      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/permutations.cpp" timestamp="1520601885141">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="2" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="36" column="7" />
       </file>
@@ -293,13 +304,14 @@
       <jump line="16" column="4" filename="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/permutations.cpp" />
       <jump line="19" column="61" filename="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/permutations.cpp" />
       <jump line="37" column="0" filename="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/permutations.cpp" />
+      <jump line="9" column="16" filename="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/5-2__changeLength1D.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>T*</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>T*</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
@@ -333,6 +345,9 @@
       </register>
       <register name="9" type="2">
         <text encoding="base64">LyoKICogCiAqLwo=</text>
+      </register>
+      <register name="y" type="4">
+        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
