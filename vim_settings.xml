@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/1-32_permutations.cpp" timestamp="1520601930360" />
+      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/1-32_permutations.cpp" timestamp="1520681530670">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/learnJava/src/main/java/course/homework6/Gui.java" timestamp="1507532910385">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -44,12 +47,11 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/5-2__changeLength1D.cpp" timestamp="1520602696755">
+      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/5-2__changeLength1D.cpp" timestamp="1520648468640">
         <mark key="'" line="12" column="16" />
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="19" column="17" />
-        <mark key="^" line="19" column="17" />
-        <mark key="." line="19" column="17" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/learnJava/Serverlet/web/WEB-INF/web.xml" timestamp="1509955978865">
         <mark key="[" line="6" column="22" />
@@ -70,12 +72,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/CMakeLists.txt" timestamp="1520174516498">
+      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/CMakeLists.txt" timestamp="1520682067949">
         <mark key="'" line="6" column="31" />
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="46" />
-        <mark key="." line="6" column="46" />
-        <mark key="^" line="6" column="46" />
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="53" />
       </file>
       <file name="$USER_HOME$/Workspace/learnServlet/src/Connect.java" timestamp="1509960883693">
         <mark key="[" line="9" column="0" />
@@ -308,10 +310,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T*</text>
+        <text encoding="base64">IDUtMl9jaGFuZ2VMZW5ndGgxRC5jcHA=</text>
       </register>
       <register name="-" type="4">
-        <text>T*</text>
+        <text encoding="base64">IDUtMl9jaGFuZ2VMZW5ndGgxRC5jcHA=</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
@@ -320,31 +322,31 @@
         <text encoding="base64">ICAgICpyZXMgPSAwOwogICAgZm9yIChhdXRvIHZ2IDogdikgewogICAgICAgICpyZXMgKz0gdnY7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvcHlfYmFja3dhcmQoKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb3B5KCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvcHkoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHt9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb3B5KCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvcHkoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoKICogCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
@@ -389,6 +391,8 @@
         <entry>s</entry>
         <entry>e main.cpp</entry>
         <entry>n</entry>
+        <entry encoding="base64">JzwsJz40MA==</entry>
+        <entry>40</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
