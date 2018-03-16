@@ -3,9 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/1-32_permutations.cpp" timestamp="1520681530670">
+      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/1-32_permutations.cpp" timestamp="1521192245802">
         <mark key="[" line="6" column="0" />
-        <mark key="]" line="38" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/learnJava/src/main/java/course/homework6/Gui.java" timestamp="1507532910385">
         <mark key="[" line="6" column="0" />
@@ -204,6 +205,12 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="74" column="11" />
       </file>
+      <file name="$USER_HOME$/Workspace/learn-algorithm/c-plus-plus/8-7_towersOfHanoi.cpp" timestamp="1521192649397">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="20" column="58" />
+        <mark key="^" line="20" column="58" />
+      </file>
       <file name="$USER_HOME$/Workspace/learnJava/src/main/java/course/homework10/PizzaStore.java" timestamp="1508900639565">
         <mark key="'" line="84" column="21" />
         <mark key="[" line="8" column="15" />
@@ -309,43 +316,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IDUtMl9jaGFuZ2VMZW5ndGgxRC5jcHAK</text>
+        <text encoding="base64">LyoqCiAqIOaxieivuuWhlOmXrumimAogKiDmiorloZQgZnJvbSDnmoQgbiDkuKrnop/lrZDnp7vliLDloZQgdG/vvIx0cmFuc2l0IOS9nOS4rei9rAogKiBAcGFyYW0gbgogKiBAcGFyYW0gZnJvbVRvd2VyCiAqIEBwYXJhbSB0b1Rvd2VyCiAqIEBwYXJhbSB0cmFuc2l0VG93ZXIKICovCnZvaWQgdG93ZXJzT2ZIYW5vaShpbnQgbiwgaW50IGZyb21Ub3dlciwgaW50IHRvVG93ZXIsIGludCB0cmFuc2l0VG93ZXIpCnsKICAgIHRvd2Vyc09mSGFub2kobiAtIDEsIGZyb21Ub3dlciwgdHJhbnNpdFRvd2VyLCB0b1Rvd2VyKTsKICAgIC8vIE1vdmUgdGhlIGJpZ2dlc3QgKG50aCkgZGlzayB0byB0b1Rvd2VyCiAgICB0b3dlcnNPZkhhbm9pKG4gLSAxLCB0cmFuc2l0VG93ZXIsIHRvVG93ZXIsIGZyb21Ub3dlcik7Cn0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IDUtMl9jaGFuZ2VMZW5ndGgxRC5jcHA=</text>
       </register>
       <register name="/" type="4">
-        <text>private</text>
+        <text encoding="base64">XDwvXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICpyZXMgPSAwOwogICAgZm9yIChhdXRvIHZ2IDogdikgewogICAgICAgICpyZXMgKz0gdnY7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IDUtMl9jaGFuZ2VMZW5ndGgxRC5jcHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvcHlfYmFja3dhcmQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IDUtMl9jaGFuZ2VMZW5ndGgxRC5jcHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvcHlfYmFja3dhcmQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3B5KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvcHkoKQo=</text>
+        <text encoding="base64">ICAgIHt9Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
@@ -355,12 +362,12 @@
       </register>
     </registers>
     <search>
-      <last-search>private</last-search>
+      <last-search encoding="base64">XDwvXD4=</last-search>
       <last-offset />
-      <last-pattern>private</last-pattern>
+      <last-pattern encoding="base64">XDwvXD4=</last-pattern>
       <last-replace>protected</last-replace>
       <last-substitute>private</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -373,6 +380,7 @@
         <entry>public</entry>
         <entry>int</entry>
         <entry>private</entry>
+        <entry encoding="base64">XDwvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/List/ArrayList</entry>
